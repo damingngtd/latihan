@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolah">
         <activity
-            android:name=".Latihan"
+            android:name=".BebasActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
