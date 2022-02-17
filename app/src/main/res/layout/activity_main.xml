@@ -58,7 +58,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/profil"/>
+                                android:onClick="profil"
+                                android:src="@drawable/profil" />
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -99,7 +100,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/guru"/>
+                                android:src="@drawable/guru"
+                                android:onClick="guru"/>
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -149,7 +151,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/galeri"/>
+                                android:src="@drawable/galeri"
+                                android:onClick="galeri"/>
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -190,7 +193,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/perpus"/>
+                                android:src="@drawable/perpus"
+                                android:onClick="perpus"/>
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -239,7 +243,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/ekstrakulikuler"/>
+                                android:src="@drawable/ekstrakulikuler"
+                                android:onClick="eskul"/>
 
                             <TextView
                                 android:layout_width="wrap_content"
@@ -280,7 +285,8 @@
                                 android:layout_height="80dp"
                                 android:layout_gravity="center"
                                 android:layout_margin="10dp"
-                                android:src="@drawable/fasilitas"/>
+                                android:src="@drawable/fasilitas"
+                                android:onClick="fasilitas"/>
 
                             <TextView
                                 android:layout_width="wrap_content"

@@ -10,10 +10,43 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolah">
         <activity
-            android:name=".BebasActivity"
+            android:name=".FutsalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".fasilitasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".perpusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".galeriActivity"
+            android:exported="false" />
+        <activity
+            android:name=".guruActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EkskulActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BebasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
