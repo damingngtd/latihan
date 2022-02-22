@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolah">
         <activity
+            android:name=".AlbumpmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumpramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumhutriActivity"
+            android:exported="false" />
+        <activity
             android:name=".FutsalActivity"
             android:exported="false" />
         <activity
