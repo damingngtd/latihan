@@ -86,7 +86,7 @@
                         android:layout_marginLeft="5dp"
                         android:layout_marginRight="5dp"
                         android:textColor="@color/black"
-                        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed. Leo a diam sollicitudin tempor id eu nisl nunc. Sed nisi lacus sed viverra. Tristique senectus et netus et. Elit at imperdiet dui accumsan sit amet. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan. Turpis cursus in hac habitasse platea dictumst quisque sagittis."/>
+                        android:text=" iLorempsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque diam volutpat commodo sed. Leo a diam sollicitudin tempor id eu nisl nunc. Sed nisi lacus sed viverra. Tristique senectus et netus et. Elit at imperdiet dui accumsan sit amet. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Tellus id interdum velit laoreet id donec ultrices. Massa eget egestas purus viverra accumsan. Turpis cursus in hac habitasse platea dictumst quisque sagittis."/>
 
                     <TextView
                         android:layout_width="wrap_content"
